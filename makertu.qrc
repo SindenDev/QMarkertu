@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MarkerTypeModel.qml</file>
+        <file>qml/MarkerTypeSelecter.qml</file>
+        <file>qml/SelectionArea.qml</file>
+        <file>qml/Workspace.qml</file>
+    </qresource>
+</RCC>
